@@ -79,15 +79,17 @@ padding: 0%;
 .contact-info:focus{
     outline: none;
 }
-btn-sign {
-    text-align: right;
-    background-color: #d4afb1 !important;
-    color:#fff !important;
-    font-size: 16px;
-    padding: 5px 10px!important;
+.btn-sign {
+    background-color: #d4afb1;
+    color:#fff ;
+    font-size: 10px;
+    padding: 9px 10px 10px;
     position: relative;
-    top: -38px;
-    right: -46px;
+    top: -31px;
+    left: 446px;
+    border: 0px;
+    border-radius: 19px;
 }
+
 
 
