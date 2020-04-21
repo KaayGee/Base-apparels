@@ -90,6 +90,10 @@ padding: 0%;
     border: 0px;
     border-radius: 19px;
 }
+.btn-sign:hover{
+    cursor: pointer;
+   background-color: #d5c0c1;
+}
 
 
 
